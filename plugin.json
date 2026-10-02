@@ -1,7 +1,7 @@
 {
   "id": "light",
   "kind": "plugin",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "label": "Light",
   "description": "Clean light appearance theme for UEFN Ducky — soft surfaces, blue accent.",
   "min_app_version": "1.0.466",

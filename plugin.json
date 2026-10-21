@@ -6,6 +6,7 @@
   "description": "Clean light appearance theme for UEFN Ducky — soft surfaces, blue accent.",
   "min_app_version": "1.0.466",
   "default_enabled": false,
+  "data_sharing": false,
   "secret_keys": [],
   "contributes": {
     "appearance.profiles": [
